@@ -13,6 +13,7 @@
         "packagesPath": "/Users/morten/.nuget/packages/",
         "outputPath": "/Users/morten/Desktop/SDU/Software_teknologi/1._semester/OOP/oop-workshop/oop-workshop/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/morten/.nuget/NuGet/NuGet.Config"
         ],
